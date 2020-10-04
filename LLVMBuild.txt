@@ -1,0 +1,26 @@
+;===- ./lib/Transforms/LLVMBuild.txt ---------------------------*- Conf -*--===;
+;
+;                     The LLVM Compiler Infrastructure
+;
+; This file is distributed under the University of Illinois Open Source
+; License. See LICENSE.TXT for details.
+;
+;===------------------------------------------------------------------------===;
+;
+; This is an LLVMBuild description file for the components in this subdirectory.
+;
+; For more information on the LLVMBuild system, please see:
+;
+;   http://llvm.org/docs/LLVMBuild.html
+;
+;===------------------------------------------------------------------------===;
+;subdirectories = Coroutines IPO InstCombine Instrumentation Scalar Utils Vectorize ObjCARC CountOps CountOpsBackTrace CallSiteTransform 
+[common]
+
+subdirectories = AggressiveInstCombine Coroutines IPO InstCombine Instrumentation Scalar Utils Vectorize  ObjCARC CallSiteTransformWithHash ArgumentExtractionPass CountOpsBackTrace TempTr
+;subdirectories =  Coroutines IPO InstCombine Instrumentation Scalar Utils Vectorize  ObjCARC CountOps CountOpsBackTrace CallSiteTransform
+
+[component_0]
+type = Group
+name = Transforms
+parent = Libraries

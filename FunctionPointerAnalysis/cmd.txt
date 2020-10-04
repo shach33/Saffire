@@ -1,0 +1,3 @@
+python2.7 extractsyscalls.py -f /home/shachee/node/node/out/Release/outlog -c libc
+
+Run

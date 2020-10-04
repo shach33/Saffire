@@ -1,0 +1,356 @@
+Syscall map count found: 371
+Syscall Number isn't integer: SYS_bdflush
+Syscall Number isn't integer: SYS_chown16
+Syscall Number isn't integer: SYS_fadvise64_64
+Syscall Number isn't integer: SYS_fchown16
+Syscall Number isn't integer: SYS_fstatfs64
+Syscall Number isn't integer: SYS_getegid16
+Syscall Number isn't integer: SYS_geteuid16
+Syscall Number isn't integer: SYS_getgid16
+Syscall Number isn't integer: SYS_getgroups16
+Syscall Number isn't integer: SYS_gethostname
+Syscall Number isn't integer: SYS_getresgid16
+Syscall Number isn't integer: SYS_getresuid16
+Syscall Number isn't integer: SYS_getuid16
+Syscall Number isn't integer: SYS_io_pgetevents
+Syscall Number isn't integer: SYS_lchown16
+Syscall Number isn't integer: SYS_llseek
+Syscall Number isn't integer: SYS_mmap_pgoff
+Syscall Number isn't integer: SYS_newfstat
+Syscall Number isn't integer: SYS_newlstat
+Syscall Number isn't integer: SYS_newstat
+Syscall Number isn't integer: SYS_newuname
+Syscall Number isn't integer: SYS_nice
+Syscall Number isn't integer: SYS_old_getrlimit
+Syscall Number isn't integer: SYS_old_readdir
+Syscall Number isn't integer: SYS_oldumount
+Syscall Number isn't integer: SYS_olduname
+Syscall Number isn't integer: SYS_recv
+Syscall Number isn't integer: SYS_rseq
+Syscall Number isn't integer: SYS_sendfile64
+Syscall Number isn't integer: SYS_send
+Syscall Number isn't integer: SYS_setfsgid16
+Syscall Number isn't integer: SYS_setfsuid16
+Syscall Number isn't integer: SYS_setgid16
+Syscall Number isn't integer: SYS_setgroups16
+Syscall Number isn't integer: SYS_setregid16
+Syscall Number isn't integer: SYS_setresgid16
+Syscall Number isn't integer: SYS_setresuid16
+Syscall Number isn't integer: SYS_setreuid16
+Syscall Number isn't integer: SYS_setuid16
+Syscall Number isn't integer: SYS_sgetmask
+Syscall Number isn't integer: SYS_signal
+Syscall Number isn't integer: SYS_sigpending
+Syscall Number isn't integer: SYS_sigprocmask
+Syscall Number isn't integer: SYS_sigsuspend
+Syscall Number isn't integer: SYS_socketcall
+Syscall Number isn't integer: SYS_ssetmask
+Syscall Number isn't integer: SYS_statfs64
+Syscall Number isn't integer: SYS_stime
+Syscall Number isn't integer: SYS_sync_file_range2
+Syscall Number isn't integer: SYS_sysctl
+Syscall Number isn't integer: SYS_umount
+Syscall Number isn't integer: SYS_waitpid
+------- main --------
+0
+1
+2
+3
+4
+5
+7
+9
+11
+13
+14
+16
+17
+18
+19
+20
+21
+22
+23
+24
+33
+35
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+60
+61
+62
+63
+74
+75
+77
+78
+79
+80
+82
+83
+84
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+97
+98
+99
+102
+104
+105
+106
+107
+108
+110
+115
+116
+117
+119
+130
+140
+141
+157
+160
+186
+202
+213
+228
+229
+231
+233
+234
+257
+273
+280
+281
+291
+------- uv__process_child_init --------
+0
+1
+2
+3
+4
+5
+9
+11
+13
+14
+16
+20
+23
+24
+33
+39
+60
+78
+79
+80
+87
+89
+98
+105
+106
+112
+116
+130
+157
+186
+202
+228
+229
+231
+233
+234
+257
+281
+Syscall map count found: 371
+Syscall map count found: 371
+Syscall Number isn't integer: SYS_bdflush
+Syscall Number isn't integer: SYS_bdflush
+Syscall Number isn't integer: SYS_chown16
+Syscall Number isn't integer: SYS_chown16
+Syscall Number isn't integer: SYS_fadvise64_64
+Syscall Number isn't integer: SYS_fadvise64_64
+Syscall Number isn't integer: SYS_fchown16
+Syscall Number isn't integer: SYS_fchown16
+Syscall Number isn't integer: SYS_fstatfs64
+Syscall Number isn't integer: SYS_fstatfs64
+Syscall Number isn't integer: SYS_getegid16
+Syscall Number isn't integer: SYS_getegid16
+Syscall Number isn't integer: SYS_geteuid16
+Syscall Number isn't integer: SYS_geteuid16
+Syscall Number isn't integer: SYS_getgid16
+Syscall Number isn't integer: SYS_getgid16
+Syscall Number isn't integer: SYS_getgroups16
+Syscall Number isn't integer: SYS_getgroups16
+Syscall Number isn't integer: SYS_gethostname
+Syscall Number isn't integer: SYS_gethostname
+Syscall Number isn't integer: SYS_getresgid16
+Syscall Number isn't integer: SYS_getresgid16
+Syscall Number isn't integer: SYS_getresuid16
+Syscall Number isn't integer: SYS_getresuid16
+Syscall Number isn't integer: SYS_getuid16
+Syscall Number isn't integer: SYS_getuid16
+Syscall Number isn't integer: SYS_io_pgetevents
+Syscall Number isn't integer: SYS_io_pgetevents
+Syscall Number isn't integer: SYS_lchown16
+Syscall Number isn't integer: SYS_lchown16
+Syscall Number isn't integer: SYS_llseek
+Syscall Number isn't integer: SYS_llseek
+Syscall Number isn't integer: SYS_mmap_pgoff
+Syscall Number isn't integer: SYS_mmap_pgoff
+Syscall Number isn't integer: SYS_newfstat
+Syscall Number isn't integer: SYS_newfstat
+Syscall Number isn't integer: SYS_newlstat
+Syscall Number isn't integer: SYS_newlstat
+Syscall Number isn't integer: SYS_newstat
+Syscall Number isn't integer: SYS_newstat
+Syscall Number isn't integer: SYS_newuname
+Syscall Number isn't integer: SYS_newuname
+Syscall Number isn't integer: SYS_nice
+Syscall Number isn't integer: SYS_nice
+Syscall Number isn't integer: SYS_old_getrlimit
+Syscall Number isn't integer: SYS_old_getrlimit
+Syscall Number isn't integer: SYS_old_readdir
+Syscall Number isn't integer: SYS_old_readdir
+Syscall Number isn't integer: SYS_oldumount
+Syscall Number isn't integer: SYS_oldumount
+Syscall Number isn't integer: SYS_olduname
+Syscall Number isn't integer: SYS_olduname
+Syscall Number isn't integer: SYS_recv
+Syscall Number isn't integer: SYS_recv
+Syscall Number isn't integer: SYS_rseq
+Syscall Number isn't integer: SYS_rseq
+Syscall Number isn't integer: SYS_sendfile64
+Syscall Number isn't integer: SYS_sendfile64
+Syscall Number isn't integer: SYS_send
+Syscall Number isn't integer: SYS_send
+Syscall Number isn't integer: SYS_setfsgid16
+Syscall Number isn't integer: SYS_setfsgid16
+Syscall Number isn't integer: SYS_setfsuid16
+Syscall Number isn't integer: SYS_setfsuid16
+Syscall Number isn't integer: SYS_setgid16
+Syscall Number isn't integer: SYS_setgid16
+Syscall Number isn't integer: SYS_setgroups16
+Syscall Number isn't integer: SYS_setgroups16
+Syscall Number isn't integer: SYS_setregid16
+Syscall Number isn't integer: SYS_setregid16
+Syscall Number isn't integer: SYS_setresgid16
+Syscall Number isn't integer: SYS_setresgid16
+Syscall Number isn't integer: SYS_setresuid16
+Syscall Number isn't integer: SYS_setresuid16
+Syscall Number isn't integer: SYS_setreuid16
+Syscall Number isn't integer: SYS_setreuid16
+Syscall Number isn't integer: SYS_setuid16
+Syscall Number isn't integer: SYS_setuid16
+Syscall Number isn't integer: SYS_sgetmask
+Syscall Number isn't integer: SYS_sgetmask
+Syscall Number isn't integer: SYS_signal
+Syscall Number isn't integer: SYS_signal
+Syscall Number isn't integer: SYS_sigpending
+Syscall Number isn't integer: SYS_sigpending
+Syscall Number isn't integer: SYS_sigprocmask
+Syscall Number isn't integer: SYS_sigprocmask
+Syscall Number isn't integer: SYS_sigsuspend
+Syscall Number isn't integer: SYS_sigsuspend
+Syscall Number isn't integer: SYS_socketcall
+Syscall Number isn't integer: SYS_socketcall
+Syscall Number isn't integer: SYS_ssetmask
+Syscall Number isn't integer: SYS_ssetmask
+Syscall Number isn't integer: SYS_statfs64
+Syscall Number isn't integer: SYS_statfs64
+Syscall Number isn't integer: SYS_stime
+Syscall Number isn't integer: SYS_stime
+Syscall Number isn't integer: SYS_sync_file_range2
+Syscall Number isn't integer: SYS_sync_file_range2
+Syscall Number isn't integer: SYS_sysctl
+Syscall Number isn't integer: SYS_sysctl
+Syscall Number isn't integer: SYS_umount
+Syscall Number isn't integer: SYS_umount
+Syscall Number isn't integer: SYS_waitpid
+Syscall Number isn't integer: SYS_waitpid
+------- main minus worker -------
+poll
+pread64
+pwrite64
+readv
+access
+pipe
+nanosleep
+sendfile
+socket
+connect
+accept
+sendto
+recvfrom
+sendmsg
+recvmsg
+shutdown
+bind
+listen
+getsockname
+getpeername
+socketpair
+setsockopt
+getsockopt
+clone
+wait4
+kill
+uname
+fsync
+fdatasync
+ftruncate
+rename
+mkdir
+rmdir
+link
+symlink
+chmod
+fchmod
+chown
+fchown
+lchown
+umask
+getrlimit
+sysinfo
+getuid
+getgid
+geteuid
+getegid
+getppid
+getgroups
+setresuid
+setresgid
+getpriority
+setpriority
+setrlimit
+epoll_create
+set_robust_list
+utimensat
+epoll_create1
+------- worker minus main -------
+setsid
+

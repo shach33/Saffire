@@ -1,0 +1,6 @@
+To Build: 
+cd llvm-8.0.0/build
+gmake -j8
+
+To Run: 
+/home/shachee/llvm-8.0.0.src/build/bin/opt -load /home/shachee/llvm-8.0.0.src/build/lib/LLVMCountOpsBackTrace.so -opCounterBackTrace < app.bc > /dev/null
